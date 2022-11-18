@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @andreLiborio11<br>👀 I’m interested in the programming area<br>🌱 I’m currently learning lots of java, js, and mysql<br>💞️ I’m looking to collaborate on in something on the part of you in my first experience<br>📫 How to reach me email: andre21liborio@gmail.com / @_andre_liborio
+👋 Hi, I’m @andreLiborio11<br>👀 I’m interested in the programming area<br>🌱I am currently working with Vue, JavaScript, Laravel  and mysql<br>💞️ I’m looking to collaborate on in something on the part of you in my first experience<br>📫 How to reach me email: andre21liborio@gmail.com / @_andre_liborio
 
 
 ## 🌐 Socials:
