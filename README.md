@@ -21,6 +21,7 @@
 ### 😂 Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />
 ---
 [![](https://visitcount.itsvg.in/api?id=andreLiborio11&icon=1&color=12)](https://visitcount.itsvg.in)
 
