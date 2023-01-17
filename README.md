@@ -21,8 +21,7 @@
 ### 😂 Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />
----
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
