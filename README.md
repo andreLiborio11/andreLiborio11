@@ -1,5 +1,5 @@
 # 💫 About Me:
- Ola, sou André <br> Sobre mim<br> Explorando novas tecnologias e desenvolvendo soluções de software.<br> Trabalhando como Dev na Grupo Intra EAD<br>Atualmente trabalho com Vue, JavaScript, Laravel e mysql<br>Como me contatar e-mail: andre21liborio@gmail.com / @_andre_liborio
+ Ola, sou André <br> Sobre mim<br> Explorando novas tecnologias e desenvolvendo soluções de software.<br>Vue JavaScript<br>Como me contatar e-mail: andre21liborio@gmail.com / @_andre_liborio
 
 
 ## 🌐 Socials:
